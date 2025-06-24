@@ -8,11 +8,11 @@ TOOLS USED : pandas for dataset loading,matplotlib for visualization(histograms,
 
 STEPS PERFORMED : 1. used df.describe() to view mean,median,standard deviation and quartiles
 
-                  2.plotted histograms and boxplots for features like Age, Fare, SibSp, and Parch to understand their distributions
+2.plotted histograms and boxplots for features like Age, Fare, SibSp, and Parch to understand their distributions
                   
-                  3.used correlation matrix for feature relationships
+3.used correlation matrix for feature relationships
                   
-                  4.boxplots helped to detect and visualize outliers in the features
+4.boxplots helped to detect and visualize outliers in the features
 
 OUTPUT : when plotting survival rates by the Embarked port,we found:
 
