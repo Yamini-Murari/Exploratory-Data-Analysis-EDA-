@@ -6,7 +6,7 @@ OBJECTIVE : Understand data using statistics and visualizations
 
 TOOLS USED : pandas for dataset loading,
 
-             matplotlib for visualization (histograms,boxplots)
+             matplotlib for visualization (histograms,boxplots) and
 
             seaborn for correlation heatmap
 
