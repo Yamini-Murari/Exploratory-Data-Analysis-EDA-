@@ -4,11 +4,7 @@ NAME : MURARI YAMINI
 
 OBJECTIVE : Understand data using statistics and visualizations
 
-TOOLS USED : pandas for dataset loading,
-
-             matplotlib for visualization (histograms,boxplots),
-
-            seaborn for correlation heatmap
+TOOLS USED : pandas for dataset loading,matplotlib for visualization(histograms,boxplots),seaborn for correlation heatmap
 
 STEPS PERFORMED :
 
